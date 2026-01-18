@@ -1,8 +1,6 @@
 # 🚀 AI Trading Floor
 **Powered by LangGraph + OpenAI**
 
-🌐 **[View Live Application](https://langgraph-trading-floor.vercel.app)**
-
 > **Transform market sector themes into structured, risk-aware trading idea sheets with AI-powered analysis—in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -264,8 +262,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **⭐ Star this repo if you find it useful!**
-
-[Live Demo](https://langgraph-trading-floor.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
